@@ -1,0 +1,7 @@
+#fmxCanvas {
+  position: relative;
+  background-color: rgba(144, 141, 141, 1.00);
+  border: rgba(255, 255, 255, 1) thin dashed;
+  cursor: crosshair;
+  display: inline-block;
+}
